@@ -1,0 +1,40 @@
+# List 
+
+## Overview
+
+This repository contains my Python solutions for the **List** tasks assigned during the ShadowFox Python Internship.
+
+## Tasks
+
+### Task 1
+
+* Count the number of Justice League members.
+
+### Task 2
+
+* Add Batgirl and Nightwing to the team.
+
+### Task 3
+
+* Move Wonder Woman to the beginning of the list.
+
+### Task 4
+
+* Place Green Lantern between Aquaman and Flash.
+
+### Task 5
+
+* Replace the existing Justice League with a new team.
+
+### Task 6
+
+* Sort the new Justice League alphabetically.
+* Display the hero at index `0` as the new leader.
+
+## Language Used
+
+* Python 3
+
+## Author
+
+Anuja SK
