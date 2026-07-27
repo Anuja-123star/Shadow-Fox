@@ -1,0 +1,29 @@
+# Numbers 
+
+## Overview
+
+This repository contains my Python solutions for the **Numbers** tasks assigned during the ShadowFox Python Internship.
+
+## Tasks
+
+### Task 1
+
+* Use the `format()` function with the value `145`.
+* Display its octal representation.
+
+### Task 2
+
+* Calculate the area of a circular pond using the formula **πr²**.
+* Calculate the total amount of water in the pond.
+
+### Task 3
+
+* Calculate speed in meters per second using the given distance and time.
+
+## Language Used
+
+* Python 3
+
+## Author
+
+Anuja SK
