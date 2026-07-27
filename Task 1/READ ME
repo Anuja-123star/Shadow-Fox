@@ -1,0 +1,33 @@
+# Variables - ShadowFox Python Internship
+
+## Overview
+
+This folder contains the solutions for the **Variables** tasks assigned during the ShadowFox Python Internship.
+
+## Tasks
+
+### Task 1
+
+* Create a variable named `pi`.
+* Store the value `22/7`.
+* Display its data type.
+
+### Task 2
+
+* Try to create a variable named `for`.
+* Observe the error and understand why it occurs.
+
+### Task 3
+
+* Store Principal, Rate, and Time in variables.
+* Calculate the Simple Interest using the formula:
+
+**Simple Interest = (P × R × T) / 100**
+
+## Language Used
+
+* Python 3
+
+## Author
+
+Anuja SK
