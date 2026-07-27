@@ -1,0 +1,28 @@
+# If Condition 
+
+## Overview
+
+This repository contains my Python solutions for the **If Condition** tasks assigned during the ShadowFox Python Internship.
+
+## Tasks
+
+### Task 1
+
+* Calculate Body Mass Index (BMI).
+* Display the BMI category using if-elif-else conditions.
+
+### Task 2
+
+* Identify the country of a given city.
+
+### Task 3
+
+* Check whether two entered cities belong to the same country.
+
+## Language Used
+
+* Python 3
+
+## Author
+
+Anuja SK
