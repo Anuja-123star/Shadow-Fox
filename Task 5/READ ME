@@ -1,0 +1,30 @@
+# For Loop 
+
+## Overview
+
+This repository contains my Python solutions for the **For Loop** tasks assigned during the ShadowFox Python Internship.
+
+## Tasks
+
+### Task 1
+
+* Simulate rolling a six-sided die 20 times.
+* Count:
+
+  * Number of times a 6 appears.
+  * Number of times a 1 appears.
+  * Number of consecutive 6s.
+
+### Task 2
+
+* Simulate a workout of 100 jumping jacks.
+* Ask the user after every 10 jumping jacks whether they are tired.
+* Allow the user to stop or continue until the workout is completed.
+
+## Language Used
+
+* Python 3
+
+## Author
+
+Anuja SK
